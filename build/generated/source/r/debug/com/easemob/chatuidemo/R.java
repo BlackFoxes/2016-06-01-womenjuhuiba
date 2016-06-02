@@ -635,7 +635,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int smiley_minus_btn=0x7f0200e9;
         public static final int smiley_minus_btn_nor=0x7f0200ea;
         public static final int smiley_minus_btn_pressed=0x7f0200eb;
-        public static final int splash=0x7f0200ec;
+        public static final int splash1 =0x7f0200ec;
         public static final int splash_gradient=0x7f0200ed;
         public static final int splash_logo=0x7f0200ee;
         public static final int tab_chat_bg=0x7f0200ef;
