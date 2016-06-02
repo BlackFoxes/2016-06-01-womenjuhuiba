@@ -6,12 +6,229 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32276609-5b2c-4dca-b811-309dc1a8fdea" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/drawable-mdpi/splash.png" />
+    <list default="true" id="32276609-5b2c-4dca-b811-309dc1a8fdea" name="Default" comment="图片资源文件的导入">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/controller/HXSDKHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/model/DefaultHXSDKModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/model/GroupRemoveListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/model/HXNotifier.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/model/HXSDKModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/utils/HXPreferenceUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/Constant.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/DemoApplication.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/DemoHXSDKHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/DemoHXSDKModel.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/UserProfileManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/AddContactActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/AlertDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/BaiduMapActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/BaseActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/BlacklistActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/CallActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatAllHistoryFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatHistoryFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatRoomActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatRoomDetailsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ContactlistFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ContextMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/DiagnoseActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/EditActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ExitGroupDialog.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ForwardMessageActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupBlacklistActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupDetailsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupPickContactsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupSimpleDetailActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ImageGridActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ImageGridFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/LoginActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/NewFriendsMsgActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/NewGroupActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/OfflinePushNickActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/PickContactNoCheckboxActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/PublicChatRoomsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/PublicGroupsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/PublicGroupsSeachActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/RecorderVideoActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/RegisterActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/RobotsActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/SettingsFragment.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ShowBigImage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ShowNormalFileActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ShowVideoActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/SplashActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/UserProfileActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/VideoCallActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/VoiceCallActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ChatAllHistoryAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ChatHistoryAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ChatRoomAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ContactAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ExpressionAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ExpressionPagerAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/GroupAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/MessageAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/NewFriendsMsgAdapter.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/VoicePlayClickListener.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/db/DbOpenHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/db/DemoDBManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/db/InviteMessgeDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/db/UserDao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/domain/InviteMessage.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/domain/RobotUser.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/domain/User.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/domain/VideoEntity.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/parse/ParseManager.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/receiver/CallReceiver.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/receiver/GCMPushBroadCast.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/task/DownloadImageTask.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/task/LoadImageTask.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/task/LoadLocalBigImgTask.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/task/LoadVideoImageTask.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/CameraHelper.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/CommonUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/DateUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/ImageCache.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/ImageUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/PreferenceUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/SmileUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/UserUtils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/ImageCache.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/ImageResizer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/ImageWorker.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/RecyclingBitmapDrawable.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/Utils.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/ExpandGridView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/MyChronometer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/PasteEditText.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/RecyclingImageView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/Sidebar.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/Compat.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/IPhotoView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/PhotoView.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/PhotoViewAttacher.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/SDK16.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/ScrollerProxy.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/VersionedGestureDetector.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/easemob/chatuidemo/R.java" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/com/easemob/chatuidemo/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_splash.xml" afterPath="$PROJECT_DIR$/res/layout/activity_splash.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/res/drawable-xhdpi/splash.png" afterPath="$PROJECT_DIR$/res/drawable-xhdpi/splash1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/AndroidManifest.xml" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_chat.xml" afterPath="$PROJECT_DIR$/res/layout/activity_chat.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_group_details.xml" afterPath="$PROJECT_DIR$/res/layout/activity_group_details.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_group_pick_contacts.xml" afterPath="$PROJECT_DIR$/res/layout/activity_group_pick_contacts.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_pick_contact_no_checkbox.xml" afterPath="$PROJECT_DIR$/res/layout/activity_pick_contact_no_checkbox.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_show_big_image.xml" afterPath="$PROJECT_DIR$/res/layout/activity_show_big_image.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_video_call.xml" afterPath="$PROJECT_DIR$/res/layout/activity_video_call.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/activity_voice_call.xml" afterPath="$PROJECT_DIR$/res/layout/activity_voice_call.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/choose_griditem.xml" afterPath="$PROJECT_DIR$/res/layout/choose_griditem.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/expression_gridview.xml" afterPath="$PROJECT_DIR$/res/layout/expression_gridview.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/fragment_contact_list.xml" afterPath="$PROJECT_DIR$/res/layout/fragment_contact_list.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/controller/HXSDKHelper.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/applib/controller/HXSDKHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/model/DefaultHXSDKModel.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/applib/model/DefaultHXSDKModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/model/GroupRemoveListener.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/applib/model/GroupRemoveListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/model/HXNotifier.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/applib/model/HXNotifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/model/HXSDKModel.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/applib/model/HXSDKModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/applib/utils/HXPreferenceUtils.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/applib/utils/HXPreferenceUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/Constant.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/Constant.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/DemoApplication.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/DemoApplication.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/DemoHXSDKHelper.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/DemoHXSDKHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/DemoHXSDKModel.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/DemoHXSDKModel.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/UserProfileManager.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/UserProfileManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/AddContactActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/AddContactActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/AlertDialog.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/AlertDialog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/BaiduMapActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/BaiduMapActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/BaseActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/BaseActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/BlacklistActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/BlacklistActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/CallActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/CallActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ChatActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatAllHistoryFragment.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ChatAllHistoryFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatHistoryFragment.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ChatHistoryFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatRoomActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ChatRoomActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ChatRoomDetailsActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ChatRoomDetailsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ContactlistFragment.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ContactlistFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ContextMenu.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ContextMenu.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/DiagnoseActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/DiagnoseActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/EditActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/EditActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ExitGroupDialog.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ExitGroupDialog.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ForwardMessageActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ForwardMessageActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupBlacklistActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/GroupBlacklistActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupDetailsActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/GroupDetailsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupPickContactsActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/GroupPickContactsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupSimpleDetailActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/GroupSimpleDetailActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/GroupsActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/GroupsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ImageGridActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ImageGridActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ImageGridFragment.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ImageGridFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/LoginActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/LoginActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/MainActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/MainActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/NewFriendsMsgActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/NewFriendsMsgActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/NewGroupActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/NewGroupActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/OfflinePushNickActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/OfflinePushNickActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/PickContactNoCheckboxActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/PickContactNoCheckboxActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/PublicChatRoomsActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/PublicChatRoomsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/PublicGroupsActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/PublicGroupsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/PublicGroupsSeachActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/PublicGroupsSeachActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/RecorderVideoActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/RecorderVideoActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/RegisterActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/RegisterActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/RobotsActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/RobotsActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/SettingsFragment.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/SettingsFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ShowBigImage.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ShowBigImage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ShowNormalFileActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ShowNormalFileActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/ShowVideoActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/ShowVideoActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/SplashActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/SplashActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/UserProfileActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/UserProfileActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/VideoCallActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/VideoCallActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/activity/VoiceCallActivity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/activity/VoiceCallActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ChatAllHistoryAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/ChatAllHistoryAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ChatHistoryAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/ChatHistoryAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ChatRoomAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/ChatRoomAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ContactAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/ContactAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ExpressionAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/ExpressionAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/ExpressionPagerAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/ExpressionPagerAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/GroupAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/GroupAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/MessageAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/MessageAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/NewFriendsMsgAdapter.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/NewFriendsMsgAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/adapter/VoicePlayClickListener.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/adapter/VoicePlayClickListener.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/db/DbOpenHelper.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/db/DbOpenHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/db/DemoDBManager.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/db/DemoDBManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/db/InviteMessgeDao.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/db/InviteMessgeDao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/db/UserDao.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/db/UserDao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/domain/InviteMessage.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/domain/InviteMessage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/domain/RobotUser.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/domain/RobotUser.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/domain/User.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/domain/User.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/domain/VideoEntity.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/domain/VideoEntity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/parse/ParseManager.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/parse/ParseManager.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/receiver/CallReceiver.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/receiver/CallReceiver.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/receiver/GCMPushBroadCast.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/receiver/GCMPushBroadCast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/task/DownloadImageTask.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/task/DownloadImageTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/task/LoadImageTask.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/task/LoadImageTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/task/LoadLocalBigImgTask.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/task/LoadLocalBigImgTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/task/LoadVideoImageTask.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/task/LoadVideoImageTask.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/CameraHelper.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/utils/CameraHelper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/CommonUtils.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/utils/CommonUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/DateUtils.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/utils/DateUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/ImageCache.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/utils/ImageCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/ImageUtils.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/utils/ImageUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/PreferenceUtils.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/utils/PreferenceUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/SmileUtils.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/utils/SmileUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/utils/UserUtils.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/utils/UserUtils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/ImageCache.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/video/util/ImageCache.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/ImageResizer.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/video/util/ImageResizer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/ImageWorker.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/video/util/ImageWorker.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/RecyclingBitmapDrawable.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/video/util/RecyclingBitmapDrawable.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/video/util/Utils.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/video/util/Utils.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/ExpandGridView.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/ExpandGridView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/MyChronometer.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/MyChronometer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/PasteEditText.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/PasteEditText.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/RecyclingImageView.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/RecyclingImageView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/Sidebar.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/Sidebar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/Compat.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/photoview/Compat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/IPhotoView.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/photoview/IPhotoView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/PhotoView.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/photoview/PhotoView.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/PhotoViewAttacher.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/photoview/PhotoViewAttacher.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/SDK16.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/photoview/SDK16.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/ScrollerProxy.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/photoview/ScrollerProxy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/easemob/chatuidemo/widget/photoview/VersionedGestureDetector.java" afterPath="$PROJECT_DIR$/src/cn/ucai/womenjuhuiba/widget/photoview/VersionedGestureDetector.java" />
     </list>
     <ignored path="womenjuhuiba.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,81 +244,40 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state />
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="womenjuhuiba" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main_botton_text_color.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/color/main_botton_text_color.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.15625">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="appitem_del_btn.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/drawable/appitem_del_btn.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_baidumap.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_baidumap.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_add_contact.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_add_contact.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_splash.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/res/layout/activity_splash.xml">
+      <file leaf-file-name="activity_login.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/res/layout/activity_login.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.29715762">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.33333334">
+              <caret line="131" column="10" selection-start-line="131" selection-start-column="10" selection-end-line="131" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="splash1.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/drawable-xhdpi/splash1.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="splash.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/splash.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
+      <file leaf-file-name="main_botton_text_color.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/color/main_botton_text_color.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.4375">
+              <caret line="2" column="80" selection-start-line="2" selection-start-column="80" selection-end-line="2" selection-end-column="80" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -955,6 +1131,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/res/layout/activity_splash.xml" />
+        <option value="$PROJECT_DIR$/res/layout/activity_login.xml" />
       </list>
     </option>
   </component>
@@ -975,12 +1152,12 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -1010,42 +1187,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="res" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="womenjuhuiba" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="womenjuhuiba" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layout" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="womenjuhuiba" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="womenjuhuiba" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="drawable" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1091,12 +1232,15 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/res/drawable-mdpi" />
+    <property name="ToolWindowDocumentation.ShowToolbar" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\womenjuhuiba\res\drawable-xxhdpi" />
+      <recent name="D:\womenjuhuiba\res\drawable-xhdpi" />
       <recent name="D:\womenjuhuiba\res\drawable-mdpi" />
-      <recent name="D:\womenjuhuiba\res\anim" />
-      <recent name="D:\womenjuhuiba\res" />
+      <recent name="D:\womenjuhuiba\res\drawable-hdpi" />
+      <recent name="D:\womenjuhuiba\res\drawable" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.womenjuhuiba">
@@ -1370,44 +1514,70 @@
       <option name="number" value="Default" />
       <updated>1464834415766</updated>
     </task>
+    <task id="LOCAL-00001" summary="闪屏界面的修改">
+      <created>1464853465698</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1464853465698</updated>
+    </task>
+    <task id="LOCAL-00002" summary="图片资源文件的导入">
+      <created>1464856186055</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1464856186055</updated>
+    </task>
+    <task id="LOCAL-00003" summary="登录界面的修改">
+      <created>1464860191872</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1464860191872</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33426183" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.028871391" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28856042" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24935733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32969153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3481894" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" x="904" y="365" width="451" height="720" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="闪屏界面的修改" />
+    <MESSAGE value="图片资源文件的导入" />
+    <MESSAGE value="登录界面的修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="登录界面的修改" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1420,22 +1590,6 @@
       </provider>
       <provider selected="true" editor-type-id="ninepatcheditor">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.27577937">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res/color/main_botton_text_color.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.15625">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable/appitem_del_btn.xml">
@@ -1468,11 +1622,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/splash.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/drawable-xhdpi/splash1.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1483,8 +1632,242 @@
         <state />
       </provider>
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.29715762">
+        <state vertical-scroll-proportion="-1.8548387">
           <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_group_blacklist.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/logo_uidemo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable/roominfo_add_btn.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_register.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.967742">
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.71875">
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-nodpi/empty_photo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/easemob_chatting_setmode_voice_btn_normal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/easemob_chatting_setmode_keyboard_btn_pressed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/easemob_type_select_btn_pressed.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/fragitem3p.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/reg_camera_normal.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/a_add_friend.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/a_add_friend_bai_no_press.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/a_refrash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/bg_recipe_list_focus.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/cb_unchecked.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/costcenter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/easemob_chat_video_mask_to.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/easemob_chatfrom_bg_normal.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/easemob_chatto_bg_normal.9.png">
+      <provider editor-type-id="images">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="ninepatcheditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/welcome_wx_p.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/yaoqing.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/yaoqingp.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/welcome_wb_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/welcome_qq_p.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-hdpi/welcome_qq_n.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/default_ptr_rotate.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/default_ptr_flip.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/indicator_arrow.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/ofm_blacklist_icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-mdpi/splash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/user.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/time.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/reg_camera_press.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/drawable-xxhdpi/reg_images_press.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/color/main_botton_text_color.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4375">
+          <caret line="2" column="80" selection-start-line="2" selection-start-column="80" selection-end-line="2" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/layout/activity_login.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="131" column="10" selection-start-line="131" selection-start-column="10" selection-end-line="131" selection-end-column="10" />
           <folding />
         </state>
       </provider>
